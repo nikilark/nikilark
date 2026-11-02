@@ -1,6 +1,6 @@
 ## Mykyta Zhavoronkov
 
-### Linux C++ Engineer
+### Linux C++ Engineering Lead
 
 ### 6 years commercial experience
 
@@ -37,7 +37,7 @@ Linux C++ Engineer with experience in embedded systems, drone autonomy, and medi
 
 ## Experience
 
-### Engineering Lead, Drone Autonomy project, DoD Solution (February 2026–present)
+### Engineering Lead, Drone Autonomy project, DoD Solution (2026–present)
 
 Leading engineering work on a drone autonomy solution, combining hands-on development with technical design and team support.
 
